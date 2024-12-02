@@ -1,0 +1,26 @@
+*.pyc
+*.pyo
+__pycache__/
+env/
+venv/
+*.env
+*.flaskenv
+.venv/
+node_modules/
+build/
+dist/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# local env files
+.env*.local
+.env
